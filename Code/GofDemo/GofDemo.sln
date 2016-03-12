@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GofDemo", "GofDemo\GofDemo.csproj", "{A1DC5F54-DDA4-4F2C-8797-75424299779F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FactoryMethod", "FactoryMethod\FactoryMethod.csproj", "{8976A35B-6785-4061-BB90-86F9FFA64A72}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AbstractFactory", "AbstractFactory\AbstractFactory.csproj", "{22CE0EDA-4C7A-478E-9ABC-B7B72F079CE7}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1DC5F54-DDA4-4F2C-8797-75424299779F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1DC5F54-DDA4-4F2C-8797-75424299779F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1DC5F54-DDA4-4F2C-8797-75424299779F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1DC5F54-DDA4-4F2C-8797-75424299779F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8976A35B-6785-4061-BB90-86F9FFA64A72}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8976A35B-6785-4061-BB90-86F9FFA64A72}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8976A35B-6785-4061-BB90-86F9FFA64A72}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8976A35B-6785-4061-BB90-86F9FFA64A72}.Release|Any CPU.Build.0 = Release|Any CPU
+		{22CE0EDA-4C7A-478E-9ABC-B7B72F079CE7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{22CE0EDA-4C7A-478E-9ABC-B7B72F079CE7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{22CE0EDA-4C7A-478E-9ABC-B7B72F079CE7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{22CE0EDA-4C7A-478E-9ABC-B7B72F079CE7}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
